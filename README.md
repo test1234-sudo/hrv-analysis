@@ -1,4 +1,4 @@
-# Heart Rate Variability analysis
+# Heart Rate Variability analysis ... 
 
 [![PyPI version](https://badge.fury.io/py/hrv-analysis.svg)](https://badge.fury.io/py/hrv-analysis)
 [![Build Status](https://travis-ci.com/Aura-healthcare/hrv-analysis.svg?branch=master)](https://travis-ci.com/Aura-healthcare/hrv-analysis)
